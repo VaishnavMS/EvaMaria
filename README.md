@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://toofargone.moe/wp-content/uploads/2018/02/SG0-Cover.jpg" alt="Amadeus Photo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Amadeus</b>
 </h1>
 
 
@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/EvamariaTG/evamaria/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/VaishnavMS/EvaMaria">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
